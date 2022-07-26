@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 5d2ff66710118d34fa10d8cdfaa5f9c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8616816250168215491
+    second: White Sword Damaged and Death_0
+  - first:
+      213: -1629087517631103756
+    second: White Sword Damaged and Death_1
+  - first:
+      213: -3362075401042753309
+    second: White Sword Damaged and Death_2
+  - first:
+      213: -726310460470829139
+    second: White Sword Damaged and Death_3
+  - first:
+      213: -9099329448937427764
+    second: White Sword Damaged and Death_4
+  - first:
+      213: 412030167667918844
+    second: White Sword Damaged and Death_5
+  - first:
+      213: -1696317768683987494
+    second: White Sword Damaged and Death_6
+  - first:
+      213: 5994462702725435118
+    second: White Sword Damaged and Death_7
+  - first:
+      213: -328815699090831688
+    second: White Sword Damaged and Death_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f8e9364bea6880800000000000000
+      internalID: -8616816250168215491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3393b8815469e0800000000000000
+      internalID: -1629087517631103756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e884cc5c328751d0800000000000000
+      internalID: -3362075401042753309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5cfefb70abe5f0800000000000000
+      internalID: -726310460470829139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc65d59310b8b180800000000000000
+      internalID: -9099329448937427764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf747942143d7b500800000000000000
+      internalID: 412030167667918844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add58631af77578e0800000000000000
+      internalID: -1696317768683987494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee074f611c903350800000000000000
+      internalID: 5994462702725435118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Damaged and Death_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68e132ddfcf6bf0800000000000000
+      internalID: -328815699090831688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      White Sword Damaged and Death_2: -3362075401042753309
+      White Sword Damaged and Death_4: -9099329448937427764
+      White Sword Damaged and Death_6: -1696317768683987494
+      White Sword Damaged and Death_5: 412030167667918844
+      White Sword Damaged and Death_8: -328815699090831688
+      White Sword Damaged and Death_7: 5994462702725435118
+      White Sword Damaged and Death_1: -1629087517631103756
+      White Sword Damaged and Death_3: -726310460470829139
+      White Sword Damaged and Death_0: -8616816250168215491
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

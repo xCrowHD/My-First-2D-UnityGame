@@ -1,0 +1,1202 @@
+fileFormatVersion: 2
+guid: 7b651a123f73a8b408adc9b4217b0923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6682772982591665868
+    second: Guardian Sprite-Sheet_0
+  - first:
+      213: -4072066937873309214
+    second: Guardian Sprite-Sheet_1
+  - first:
+      213: -2382470840143981826
+    second: Guardian Sprite-Sheet_2
+  - first:
+      213: -2244364715420939975
+    second: Guardian Sprite-Sheet_3
+  - first:
+      213: 6668510855306550673
+    second: Guardian Sprite-Sheet_4
+  - first:
+      213: 3186738246694830432
+    second: Guardian Sprite-Sheet_5
+  - first:
+      213: -7640155257456027683
+    second: Guardian Sprite-Sheet_6
+  - first:
+      213: -6596896568053255430
+    second: Guardian Sprite-Sheet_7
+  - first:
+      213: -4387315562445100645
+    second: Guardian Sprite-Sheet_8
+  - first:
+      213: -8888332553488491759
+    second: Guardian Sprite-Sheet_9
+  - first:
+      213: 2642931705850013158
+    second: Guardian Sprite-Sheet_10
+  - first:
+      213: -328882733092827110
+    second: Guardian Sprite-Sheet_11
+  - first:
+      213: 8510563896586984445
+    second: Guardian Sprite-Sheet_12
+  - first:
+      213: 3307200478772133958
+    second: Guardian Sprite-Sheet_13
+  - first:
+      213: 1034672974605270338
+    second: Guardian Sprite-Sheet_14
+  - first:
+      213: 5357155858536487103
+    second: Guardian Sprite-Sheet_15
+  - first:
+      213: -1813004067492182702
+    second: Guardian Sprite-Sheet_16
+  - first:
+      213: -7443586308795365458
+    second: Guardian Sprite-Sheet_17
+  - first:
+      213: -8818001820111142726
+    second: Guardian Sprite-Sheet_18
+  - first:
+      213: -4163016971240119033
+    second: Guardian Sprite-Sheet_19
+  - first:
+      213: -3046001428840146927
+    second: Guardian Sprite-Sheet_20
+  - first:
+      213: -249630101169316082
+    second: Guardian Sprite-Sheet_21
+  - first:
+      213: -1036124599071089065
+    second: Guardian Sprite-Sheet_22
+  - first:
+      213: 2421000867428986714
+    second: Guardian Sprite-Sheet_23
+  - first:
+      213: -4423832783845365538
+    second: Guardian Sprite-Sheet_24
+  - first:
+      213: 1712025058223578551
+    second: Guardian Sprite-Sheet_25
+  - first:
+      213: -562997555797532158
+    second: Guardian Sprite-Sheet_26
+  - first:
+      213: -8165219883550337430
+    second: Guardian Sprite-Sheet_27
+  - first:
+      213: 3756297447744057760
+    second: Guardian Sprite-Sheet_28
+  - first:
+      213: 955199037067660792
+    second: Guardian Sprite-Sheet_29
+  - first:
+      213: -6832865856145124537
+    second: Guardian Sprite-Sheet_30
+  - first:
+      213: 3932070520839188575
+    second: Guardian Sprite-Sheet_31
+  - first:
+      213: -1467505158496926016
+    second: Guardian Sprite-Sheet_32
+  - first:
+      213: -3095552842621982536
+    second: Guardian Sprite-Sheet_33
+  - first:
+      213: -106934658719381783
+    second: Guardian Sprite-Sheet_34
+  - first:
+      213: -5879970140161914041
+    second: Guardian Sprite-Sheet_35
+  - first:
+      213: -7253674071905199495
+    second: Guardian Sprite-Sheet_36
+  - first:
+      213: -4006227233204307311
+    second: Guardian Sprite-Sheet_37
+  - first:
+      213: -3122864659849384156
+    second: Guardian Sprite-Sheet_38
+  - first:
+      213: 74271803311968775
+    second: Guardian Sprite-Sheet_0
+  - first:
+      213: -2126549561459937719
+    second: Guardian Sprite-Sheet_1
+  - first:
+      213: -8224038628163811386
+    second: Guardian Sprite-Sheet_2
+  - first:
+      213: 8210218253721942398
+    second: Guardian Sprite-Sheet_3
+  - first:
+      213: 9223075164187828181
+    second: Guardian Sprite-Sheet_4
+  - first:
+      213: -8341005933848456407
+    second: Guardian Sprite-Sheet_5
+  - first:
+      213: -1354615111243194253
+    second: Guardian Sprite-Sheet_6
+  - first:
+      213: -5839526278753789549
+    second: Guardian Sprite-Sheet_7
+  - first:
+      213: -68403308018051080
+    second: Guardian Sprite-Sheet_8
+  - first:
+      213: 4175287420995253925
+    second: Guardian Sprite-Sheet_9
+  - first:
+      213: 4657668260516735174
+    second: Guardian Sprite-Sheet_10
+  - first:
+      213: 7742254393776945351
+    second: Guardian Sprite-Sheet_11
+  - first:
+      213: 7137278065260631057
+    second: Guardian Sprite-Sheet_12
+  - first:
+      213: -1454579271035947599
+    second: Guardian Sprite-Sheet_13
+  - first:
+      213: -6749912093539380713
+    second: Guardian Sprite-Sheet_14
+  - first:
+      213: 6739101166234896772
+    second: Guardian Sprite-Sheet_15
+  - first:
+      213: -9145009435300716220
+    second: Guardian Sprite-Sheet_16
+  - first:
+      213: -4171525610882481203
+    second: Guardian Sprite-Sheet_17
+  - first:
+      213: -3851785110437652606
+    second: Guardian Sprite-Sheet_18
+  - first:
+      213: 2558152347103195356
+    second: Guardian Sprite-Sheet_19
+  - first:
+      213: 6372083042988873685
+    second: Guardian Sprite-Sheet_20
+  - first:
+      213: 8299193094823855096
+    second: Guardian Sprite-Sheet_21
+  - first:
+      213: 7933865680495478458
+    second: Guardian Sprite-Sheet_22
+  - first:
+      213: 1713893918686499645
+    second: Guardian Sprite-Sheet_23
+  - first:
+      213: -703332579828504568
+    second: Guardian Sprite-Sheet_24
+  - first:
+      213: 3668702707553491930
+    second: Guardian Sprite-Sheet_25
+  - first:
+      213: -477458794764497808
+    second: Guardian Sprite-Sheet_26
+  - first:
+      213: -306515937153241802
+    second: Guardian Sprite-Sheet_27
+  - first:
+      213: -7284798232003810821
+    second: Guardian Sprite-Sheet_28
+  - first:
+      213: 3498619591517796392
+    second: Guardian Sprite-Sheet_29
+  - first:
+      213: -8199987693081773753
+    second: Guardian Sprite-Sheet_30
+  - first:
+      213: 6884752294195246103
+    second: Guardian Sprite-Sheet_31
+  - first:
+      213: -8650088176833705518
+    second: Guardian Sprite-Sheet_32
+  - first:
+      213: -2350486590256400944
+    second: Guardian Sprite-Sheet_33
+  - first:
+      213: -262690983510909985
+    second: Guardian Sprite-Sheet_34
+  - first:
+      213: 3629412790971301853
+    second: Guardian Sprite-Sheet_35
+  - first:
+      213: 1723064777735060288
+    second: Guardian Sprite-Sheet_36
+  - first:
+      213: -3551735340068245928
+    second: Guardian Sprite-Sheet_37
+  - first:
+      213: 4003360799011766963
+    second: Guardian Sprite-Sheet_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702dc35cfcdd70100800000000000000
+      internalID: 6682772982591665868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eeae7d07afc72e0800000000000000
+      internalID: -4072066937873309214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c78435c0785edd80800000000000000
+      internalID: -2382470840143981826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79368d800e80f170800000000000000
+      internalID: -2244364715420939975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9422fef1feff70800000000000000
+      internalID: 6668510855306550673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239983bb4bce3c80800000000000000
+      internalID: 3186738246694830432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37029febbb0733de0800000000000000
+      internalID: -7640155257456027683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995252e9c5d5fea0800000000000000
+      internalID: -6596896568053255430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75f14cd8bfc0ff0800000000000000
+      internalID: -4387315562445100645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6349ba9c991f930800000000000000
+      internalID: -8888332553488491759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c826b50b9c53a040800000000000000
+      internalID: 2642931705850013158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c838c5d953027b60800000000000000
+      internalID: -328882733092827110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1141c0fd594bc0360800000000000000
+      internalID: 8510563896586984445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b571441cdb40dbe0800000000000000
+      internalID: 3307200478772133958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d877a6be7352a0800000000000000
+      internalID: 1034672974605270338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4890ade2ec8168d50800000000000000
+      internalID: 5357155858536487103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4412e45fe56661180800000000000000
+      internalID: -1813004067492182702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c7effe83cb16c0800000000000000
+      internalID: -7443586308795365458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287993589d5bb8ac0800000000000000
+      internalID: -8818001820111142726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0fa6a8102608320800000000000000
+      internalID: -4163016971240119033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d754a054cf2e6850800000000000000
+      internalID: -3046001428840146927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c9531628ac2370800000000000000
+      internalID: -249630101169316082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6889d0dc0ca1e60800000000000000
+      internalID: -1036124599071089065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d20e3079f8c710800000000000000
+      internalID: 2421000867428986714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ec5cbeb24d36f0800000000000000
+      internalID: -4423832783845365538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb5d36cca9d9e230800000000000000
+      internalID: 1712025058223578551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0d2f71c9bf59f0800000000000000
+      internalID: -562997555797532158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2cff01690fbbf0800000000000000
+      internalID: -8165219883550337430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e401ca9237ea90800000000000000
+      internalID: 3756297447744057760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f3a46bf79d8030800000000000000
+      internalID: 955199037067660792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749394773aac33e80800000000000000
+      internalID: -6832865856145124537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714301e0cbd8b8f50800000000000000
+      internalID: 3932070520839188575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9450022a6b4f780800000000000000
+      internalID: -1467505158496926016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b27a46e4616fd0800000000000000
+      internalID: -3095552842621982536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb522a31fbba5cf0800000000000000
+      internalID: -106934658719381783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7a1534b34e5230800000000000000
+      internalID: -5879970140161914041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bb2e1494e89e710800000000000000
+      internalID: -7253674071905199495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ee70fa683b5bec0800000000000000
+      internalID: -4006227233204307311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian Sprite-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.1729396, y: 0.6889699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b202dc9f6bce8730800000000000000
+      internalID: -3122864659849384156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Guardian Sprite-Sheet_24: -4423832783845365538
+      Guardian Sprite-Sheet_22: -1036124599071089065
+      Guardian Sprite-Sheet_29: 955199037067660792
+      Guardian Sprite-Sheet_5: 3186738246694830432
+      Guardian Sprite-Sheet_26: -562997555797532158
+      Guardian Sprite-Sheet_23: 2421000867428986714
+      Guardian Sprite-Sheet_18: -8818001820111142726
+      Guardian Sprite-Sheet_30: -6832865856145124537
+      Guardian Sprite-Sheet_31: 3932070520839188575
+      Guardian Sprite-Sheet_25: 1712025058223578551
+      Guardian Sprite-Sheet_13: 3307200478772133958
+      Guardian Sprite-Sheet_1: -4072066937873309214
+      Guardian Sprite-Sheet_12: 8510563896586984445
+      Guardian Sprite-Sheet_35: -5879970140161914041
+      Guardian Sprite-Sheet_34: -106934658719381783
+      Guardian Sprite-Sheet_36: -7253674071905199495
+      Guardian Sprite-Sheet_10: 2642931705850013158
+      Guardian Sprite-Sheet_37: -4006227233204307311
+      Guardian Sprite-Sheet_9: -8888332553488491759
+      Guardian Sprite-Sheet_2: -2382470840143981826
+      Guardian Sprite-Sheet_8: -4387315562445100645
+      Guardian Sprite-Sheet_38: -3122864659849384156
+      Guardian Sprite-Sheet_0: 6682772982591665868
+      Guardian Sprite-Sheet_17: -7443586308795365458
+      Guardian Sprite-Sheet_20: -3046001428840146927
+      Guardian Sprite-Sheet_27: -8165219883550337430
+      Guardian Sprite-Sheet_7: -6596896568053255430
+      Guardian Sprite-Sheet_11: -328882733092827110
+      Guardian Sprite-Sheet_3: -2244364715420939975
+      Guardian Sprite-Sheet_6: -7640155257456027683
+      Guardian Sprite-Sheet_14: 1034672974605270338
+      Guardian Sprite-Sheet_33: -3095552842621982536
+      Guardian Sprite-Sheet_19: -4163016971240119033
+      Guardian Sprite-Sheet_15: 5357155858536487103
+      Guardian Sprite-Sheet_16: -1813004067492182702
+      Guardian Sprite-Sheet_21: -249630101169316082
+      Guardian Sprite-Sheet_32: -1467505158496926016
+      Guardian Sprite-Sheet_28: 3756297447744057760
+      Guardian Sprite-Sheet_4: 6668510855306550673
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

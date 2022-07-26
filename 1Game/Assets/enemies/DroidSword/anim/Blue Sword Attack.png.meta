@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: d36eb52b9573e424cba5adf7d070d6e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -360076989001290400
+    second: Blue Sword Attack_0
+  - first:
+      213: 504591891665959679
+    second: Blue Sword Attack_1
+  - first:
+      213: 7591241976162061646
+    second: Blue Sword Attack_2
+  - first:
+      213: -3162652352514140346
+    second: Blue Sword Attack_3
+  - first:
+      213: -480460020103748614
+    second: Blue Sword Attack_4
+  - first:
+      213: 8073617714177087489
+    second: Blue Sword Attack_5
+  - first:
+      213: 8866741954314072266
+    second: Blue Sword Attack_6
+  - first:
+      213: -3805777331489864188
+    second: Blue Sword Attack_7
+  - first:
+      213: 905173081557115838
+    second: Blue Sword Attack_8
+  - first:
+      213: 7022292430996437705
+    second: Blue Sword Attack_9
+  - first:
+      213: 1004583095952552206
+    second: Blue Sword Attack_10
+  - first:
+      213: 4321545419307443187
+    second: Blue Sword Attack_11
+  - first:
+      213: -2340168341478805049
+    second: Blue Sword Attack_12
+  - first:
+      213: -1462832756441478526
+    second: Blue Sword Attack_13
+  - first:
+      213: 352902981429111162
+    second: Blue Sword Attack_14
+  - first:
+      213: 3851131398684597386
+    second: Blue Sword Attack_15
+  - first:
+      213: -6160450113119044044
+    second: Blue Sword Attack_16
+  - first:
+      213: 1207340082160278800
+    second: Blue Sword Attack_17
+  - first:
+      213: -1935977552209231730
+    second: Blue Sword Attack_18
+  - first:
+      213: 5189216499676976713
+    second: Blue Sword Attack_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Sword Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d29c2e2efb00bf0800000000000000
+      internalID: -360076989001290400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaba4be6aba00700800000000000000
+      internalID: 504591891665959679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d8c217b52895960800000000000000
+      internalID: 7591241976162061646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647575c11700c14d0800000000000000
+      internalID: -3162652352514140346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af360f448201559f0800000000000000
+      internalID: -480460020103748614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10893d109804b0070800000000000000
+      internalID: 8073617714177087489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac071f554defc0b70800000000000000
+      internalID: 8866741954314072266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406005e4ea92f2bc0800000000000000
+      internalID: -3805777331489864188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb325723f12df8c00800000000000000
+      internalID: 905173081557115838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf472a2c1347160800000000000000
+      internalID: 7022292430996437705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013d95d00ff0fd00800000000000000
+      internalID: 1004583095952552206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3698e89a639fb30800000000000000
+      internalID: 4321545419307443187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17a8bca4d068fd0800000000000000
+      internalID: -2340168341478805049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0082cb59f2bbe0800000000000000
+      internalID: -1462832756441478526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7922405463c5e400800000000000000
+      internalID: 352902981429111162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd2f95a97f17530800000000000000
+      internalID: 3851131398684597386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3607f24fa18aa0800000000000000
+      internalID: -6160450113119044044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d1140786551c010800000000000000
+      internalID: 1207340082160278800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80407b6ca60225e0800000000000000
+      internalID: -1935977552209231730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Sword Attack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94697dda9ecc30840800000000000000
+      internalID: 5189216499676976713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue Sword Attack_12: -2340168341478805049
+      Blue Sword Attack_16: -6160450113119044044
+      Blue Sword Attack_14: 352902981429111162
+      Blue Sword Attack_17: 1207340082160278800
+      Blue Sword Attack_6: 8866741954314072266
+      Blue Sword Attack_4: -480460020103748614
+      Blue Sword Attack_7: -3805777331489864188
+      Blue Sword Attack_18: -1935977552209231730
+      Blue Sword Attack_19: 5189216499676976713
+      Blue Sword Attack_2: 7591241976162061646
+      Blue Sword Attack_9: 7022292430996437705
+      Blue Sword Attack_1: 504591891665959679
+      Blue Sword Attack_13: -1462832756441478526
+      Blue Sword Attack_10: 1004583095952552206
+      Blue Sword Attack_0: -360076989001290400
+      Blue Sword Attack_11: 4321545419307443187
+      Blue Sword Attack_5: 8073617714177087489
+      Blue Sword Attack_15: 3851131398684597386
+      Blue Sword Attack_3: -3162652352514140346
+      Blue Sword Attack_8: 905173081557115838
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

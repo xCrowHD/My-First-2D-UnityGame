@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: afad4b69f65349a45bf3ea748e78e62a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2021210706556691570
+    second: attack FX_0
+  - first:
+      213: -1770089985638494049
+    second: attack FX_1
+  - first:
+      213: -8045350615216805344
+    second: attack FX_2
+  - first:
+      213: 8063283813048987024
+    second: attack FX_3
+  - first:
+      213: 8776372417416317878
+    second: attack FX_4
+  - first:
+      213: -8257218070102305977
+    second: attack FX_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack FX_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2115557, y: 0.3360644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd87b329733f3e0800000000000000
+      internalID: -2021210706556691570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack FX_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2115557, y: 0.3360644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909a8159806f67e0800000000000000
+      internalID: -1770089985638494049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack FX_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2115557, y: 0.3360644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2886dd3c295090800000000000000
+      internalID: -8045350615216805344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack FX_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2115557, y: 0.3360644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d21f728e986ef60800000000000000
+      internalID: 8063283813048987024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack FX_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2115557, y: 0.3360644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc2a4e630fbc970800000000000000
+      internalID: 8776372417416317878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack FX_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2115557, y: 0.3360644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7439d92f9e7786d80800000000000000
+      internalID: -8257218070102305977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      attack FX_3: 8063283813048987024
+      attack FX_0: -2021210706556691570
+      attack FX_5: -8257218070102305977
+      attack FX_2: -8045350615216805344
+      attack FX_4: 8776372417416317878
+      attack FX_1: -1770089985638494049
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

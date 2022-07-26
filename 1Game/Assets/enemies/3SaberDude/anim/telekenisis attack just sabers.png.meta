@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 516e73cc7c8c962469953e221857397d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8744886654719393371
+    second: telekenisis attack just sabers_0
+  - first:
+      213: 4431214783584533050
+    second: telekenisis attack just sabers_1
+  - first:
+      213: -8929952381600497896
+    second: telekenisis attack just sabers_2
+  - first:
+      213: -5420466714812838958
+    second: telekenisis attack just sabers_3
+  - first:
+      213: -2030743619747357211
+    second: telekenisis attack just sabers_4
+  - first:
+      213: -1001104249754155579
+    second: telekenisis attack just sabers_5
+  - first:
+      213: 3812154693738047158
+    second: telekenisis attack just sabers_6
+  - first:
+      213: 193189224265092432
+    second: telekenisis attack just sabers_7
+  - first:
+      213: 4907700885328001862
+    second: telekenisis attack just sabers_8
+  - first:
+      213: -2485872459409655793
+    second: telekenisis attack just sabers_9
+  - first:
+      213: 2310430879040290855
+    second: telekenisis attack just sabers_10
+  - first:
+      213: 2048337647935233247
+    second: telekenisis attack just sabers_11
+  - first:
+      213: 6442158899020998381
+    second: telekenisis attack just sabers_12
+  - first:
+      213: -2469698066820599343
+    second: telekenisis attack just sabers_13
+  - first:
+      213: -6414599088966702068
+    second: telekenisis attack just sabers_14
+  - first:
+      213: 528022389678575376
+    second: telekenisis attack just sabers_15
+  - first:
+      213: 1859782130402876540
+    second: telekenisis attack just sabers_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a185608bebe3a680800000000000000
+      internalID: -8744886654719393371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3af30b3e56de7d30800000000000000
+      internalID: 4431214783584533050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f7c813f9f621480800000000000000
+      internalID: -8929952381600497896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db80c2ed32a6c4b0800000000000000
+      internalID: -5420466714812838958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed511bef6951d3e0800000000000000
+      internalID: -2030743619747357211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5054a2dfc5b12f0800000000000000
+      internalID: -1001104249754155579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6281d0f7e77e430800000000000000
+      internalID: 3812154693738047158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d01ce63985ea200800000000000000
+      internalID: 193189224265092432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b78ddf3f7ab1440800000000000000
+      internalID: 4907700885328001862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08f5fb3b28608dd0800000000000000
+      internalID: -2485872459409655793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204a4fa4ac401020800000000000000
+      internalID: 2310430879040290855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1d3dfc382d6c10800000000000000
+      internalID: 2048337647935233247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a4caf265276950800000000000000
+      internalID: 6442158899020998381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d170b871bed9bdd0800000000000000
+      internalID: -2469698066820599343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c68955d14caf6a0800000000000000
+      internalID: -6414599088966702068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8e3ad099e35700800000000000000
+      internalID: 528022389678575376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telekenisis attack just sabers_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 121
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4331436, y: 0.2546448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c584a7ef54fc910800000000000000
+      internalID: 1859782130402876540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      telekenisis attack just sabers_13: -2469698066820599343
+      telekenisis attack just sabers_16: 1859782130402876540
+      telekenisis attack just sabers_3: -5420466714812838958
+      telekenisis attack just sabers_6: 3812154693738047158
+      telekenisis attack just sabers_7: 193189224265092432
+      telekenisis attack just sabers_12: 6442158899020998381
+      telekenisis attack just sabers_10: 2310430879040290855
+      telekenisis attack just sabers_14: -6414599088966702068
+      telekenisis attack just sabers_5: -1001104249754155579
+      telekenisis attack just sabers_1: 4431214783584533050
+      telekenisis attack just sabers_11: 2048337647935233247
+      telekenisis attack just sabers_15: 528022389678575376
+      telekenisis attack just sabers_4: -2030743619747357211
+      telekenisis attack just sabers_2: -8929952381600497896
+      telekenisis attack just sabers_0: -8744886654719393371
+      telekenisis attack just sabers_8: 4907700885328001862
+      telekenisis attack just sabers_9: -2485872459409655793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

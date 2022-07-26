@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 27277df12f1ccfc409b39c3343235767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3796873568103188493
+    second: White Sword Attack_0
+  - first:
+      213: -4786244346390932505
+    second: White Sword Attack_1
+  - first:
+      213: -8311352212990160989
+    second: White Sword Attack_2
+  - first:
+      213: 7956525262604032961
+    second: White Sword Attack_3
+  - first:
+      213: 935799547916700235
+    second: White Sword Attack_4
+  - first:
+      213: -1480501265060120453
+    second: White Sword Attack_5
+  - first:
+      213: 8049401240949419531
+    second: White Sword Attack_6
+  - first:
+      213: -6101462687759342668
+    second: White Sword Attack_7
+  - first:
+      213: -1373328529960945110
+    second: White Sword Attack_8
+  - first:
+      213: 8541829612843966195
+    second: White Sword Attack_9
+  - first:
+      213: -1393506348117758926
+    second: White Sword Attack_10
+  - first:
+      213: 2767186874487031064
+    second: White Sword Attack_11
+  - first:
+      213: 3899265470073538506
+    second: White Sword Attack_12
+  - first:
+      213: -4263319050220556740
+    second: White Sword Attack_13
+  - first:
+      213: 8249499962746189360
+    second: White Sword Attack_14
+  - first:
+      213: 3539875180656407315
+    second: White Sword Attack_15
+  - first:
+      213: 8176203517558824741
+    second: White Sword Attack_16
+  - first:
+      213: -9008932480264880492
+    second: White Sword Attack_17
+  - first:
+      213: -6836203146244327624
+    second: White Sword Attack_18
+  - first:
+      213: 6973483915105752684
+    second: White Sword Attack_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Sword Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084cdbb46431b430800000000000000
+      internalID: 3796873568103188493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e395252028d39db0800000000000000
+      internalID: -4786244346390932505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af809d923528ac80800000000000000
+      internalID: -8311352212990160989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb5fe322914b6e60800000000000000
+      internalID: 7956525262604032961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4acb821bb0acfc00800000000000000
+      internalID: 935799547916700235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78339681f3347be0800000000000000
+      internalID: -1480501265060120453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee065f7c735bf60800000000000000
+      internalID: 8049401240949419531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3edcd2300435ba0800000000000000
+      internalID: -6101462687759342668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab4cb6af4f0fce0800000000000000
+      internalID: -1373328529960945110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1a7db6ccaa8670800000000000000
+      internalID: 8541829612843966195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c60380c5549ace0800000000000000
+      internalID: -1393506348117758926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8154ce81dc5076620800000000000000
+      internalID: 2767186874487031064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70eac2949fc1630800000000000000
+      internalID: 3899265470073538506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea27f69e5a5d4c0800000000000000
+      internalID: -4263319050220556740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036b516228c1c7270800000000000000
+      internalID: 8249499962746189360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133f34c8b9202130800000000000000
+      internalID: 3539875180656407315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9463a7c5b77170800000000000000
+      internalID: 8176203517558824741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e355cf3a7d9f280800000000000000
+      internalID: -9008932480264880492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f2bf457de021a0800000000000000
+      internalID: -6836203146244327624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Sword Attack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6657c67caac6c060800000000000000
+      internalID: 6973483915105752684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      White Sword Attack_4: 935799547916700235
+      White Sword Attack_8: -1373328529960945110
+      White Sword Attack_18: -6836203146244327624
+      White Sword Attack_17: -9008932480264880492
+      White Sword Attack_14: 8249499962746189360
+      White Sword Attack_16: 8176203517558824741
+      White Sword Attack_3: 7956525262604032961
+      White Sword Attack_2: -8311352212990160989
+      White Sword Attack_19: 6973483915105752684
+      White Sword Attack_5: -1480501265060120453
+      White Sword Attack_10: -1393506348117758926
+      White Sword Attack_7: -6101462687759342668
+      White Sword Attack_11: 2767186874487031064
+      White Sword Attack_15: 3539875180656407315
+      White Sword Attack_0: 3796873568103188493
+      White Sword Attack_6: 8049401240949419531
+      White Sword Attack_9: 8541829612843966195
+      White Sword Attack_12: 3899265470073538506
+      White Sword Attack_13: -4263319050220556740
+      White Sword Attack_1: -4786244346390932505
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

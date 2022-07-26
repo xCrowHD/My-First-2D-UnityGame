@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: d72e102646bd03942b69037bdc0b834d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8364622176934803821
+    second: Red Sword Damaged and Death_0
+  - first:
+      213: 2016897700741188485
+    second: Red Sword Damaged and Death_1
+  - first:
+      213: -600645197288474359
+    second: Red Sword Damaged and Death_2
+  - first:
+      213: -6277357263722826462
+    second: Red Sword Damaged and Death_3
+  - first:
+      213: 478920484076304395
+    second: Red Sword Damaged and Death_4
+  - first:
+      213: -6390258019693141479
+    second: Red Sword Damaged and Death_5
+  - first:
+      213: -2710993045596983511
+    second: Red Sword Damaged and Death_6
+  - first:
+      213: -3843650297650121144
+    second: Red Sword Damaged and Death_7
+  - first:
+      213: 4948735525486789662
+    second: Red Sword Damaged and Death_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69bd806d8b151470800000000000000
+      internalID: 8364622176934803821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b0bf8d5c57dfb10800000000000000
+      internalID: 2016897700741188485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909739b10641aa7f0800000000000000
+      internalID: -600645197288474359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2253597d3d852e8a0800000000000000
+      internalID: -6277357263722826462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08b60194a775a600800000000000000
+      internalID: 478920484076304395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126919203e3157a0800000000000000
+      internalID: -6390258019693141479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f23a0403e906ad0800000000000000
+      internalID: -2710993045596983511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8467db73b6c98aac0800000000000000
+      internalID: -3843650297650121144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sword Damaged and Death_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140ffbadb07da440800000000000000
+      internalID: 4948735525486789662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Red Sword Damaged and Death_2: -600645197288474359
+      Red Sword Damaged and Death_8: 4948735525486789662
+      Red Sword Damaged and Death_3: -6277357263722826462
+      Red Sword Damaged and Death_6: -2710993045596983511
+      Red Sword Damaged and Death_1: 2016897700741188485
+      Red Sword Damaged and Death_0: 8364622176934803821
+      Red Sword Damaged and Death_5: -6390258019693141479
+      Red Sword Damaged and Death_7: -3843650297650121144
+      Red Sword Damaged and Death_4: 478920484076304395
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

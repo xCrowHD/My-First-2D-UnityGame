@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: c46eb33d0ae174a48807fd3ec497a9ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1689389192111345442
+    second: Green Sword Attack_0
+  - first:
+      213: -4560876221734111781
+    second: Green Sword Attack_1
+  - first:
+      213: 2529724559549015962
+    second: Green Sword Attack_2
+  - first:
+      213: 1837905121874246429
+    second: Green Sword Attack_3
+  - first:
+      213: -5615412144958657627
+    second: Green Sword Attack_4
+  - first:
+      213: -2686350824101126176
+    second: Green Sword Attack_5
+  - first:
+      213: 1989591831703778055
+    second: Green Sword Attack_6
+  - first:
+      213: -6918231227552753557
+    second: Green Sword Attack_7
+  - first:
+      213: -5383499420432692780
+    second: Green Sword Attack_8
+  - first:
+      213: -4223876532722154121
+    second: Green Sword Attack_9
+  - first:
+      213: -4641084297531447656
+    second: Green Sword Attack_10
+  - first:
+      213: 6789917037320825588
+    second: Green Sword Attack_11
+  - first:
+      213: -7273896251008618421
+    second: Green Sword Attack_12
+  - first:
+      213: -597026689145995208
+    second: Green Sword Attack_13
+  - first:
+      213: 9214000514269402762
+    second: Green Sword Attack_14
+  - first:
+      213: 5823731247255834516
+    second: Green Sword Attack_15
+  - first:
+      213: -1422784278103209043
+    second: Green Sword Attack_16
+  - first:
+      213: -6404093920973502976
+    second: Green Sword Attack_17
+  - first:
+      213: -5941923905377420664
+    second: Green Sword Attack_18
+  - first:
+      213: 3529687588752028990
+    second: Green Sword Attack_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Sword Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b1d40b751e88e0800000000000000
+      internalID: -1689389192111345442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5330bad3384b0c0800000000000000
+      internalID: -4560876221734111781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97208775136b1320800000000000000
+      internalID: 2529724559549015962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7f2088fc818910800000000000000
+      internalID: 1837905121874246429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab2358e76c0212b0800000000000000
+      internalID: -5615412144958657627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdf5b882a28bad0800000000000000
+      internalID: -2686350824101126176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f8b8ca337c9b10800000000000000
+      internalID: 1989591831703778055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6814b75a518dff90800000000000000
+      internalID: -6918231227552753557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d98694dcc7f945b0800000000000000
+      internalID: -5383499420432692780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ccfb2ca6c165c0800000000000000
+      internalID: -4223876532722154121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896aef0cb6e879fb0800000000000000
+      internalID: -4641084297531447656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa61e72291aa3e50800000000000000
+      internalID: 6789917037320825588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f59106eded0b90800000000000000
+      internalID: -7273896251008618421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8308600b36fe6b7f0800000000000000
+      internalID: -597026689145995208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a865b4d56a4bedf70800000000000000
+      internalID: 9214000514269402762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc604c6bc02d050800000000000000
+      internalID: 5823731247255834516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc5afbc31414ce0800000000000000
+      internalID: -1422784278103209043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c22c52861027a0800000000000000
+      internalID: -6404093920973502976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab39190bb0a8da0800000000000000
+      internalID: -5941923905377420664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Sword Attack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4388844, y: 0.1596316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357baf2928fbf030800000000000000
+      internalID: 3529687588752028990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green Sword Attack_15: 5823731247255834516
+      Green Sword Attack_10: -4641084297531447656
+      Green Sword Attack_17: -6404093920973502976
+      Green Sword Attack_14: 9214000514269402762
+      Green Sword Attack_0: -1689389192111345442
+      Green Sword Attack_1: -4560876221734111781
+      Green Sword Attack_3: 1837905121874246429
+      Green Sword Attack_19: 3529687588752028990
+      Green Sword Attack_2: 2529724559549015962
+      Green Sword Attack_6: 1989591831703778055
+      Green Sword Attack_11: 6789917037320825588
+      Green Sword Attack_7: -6918231227552753557
+      Green Sword Attack_4: -5615412144958657627
+      Green Sword Attack_13: -597026689145995208
+      Green Sword Attack_8: -5383499420432692780
+      Green Sword Attack_9: -4223876532722154121
+      Green Sword Attack_18: -5941923905377420664
+      Green Sword Attack_16: -1422784278103209043
+      Green Sword Attack_5: -2686350824101126176
+      Green Sword Attack_12: -7273896251008618421
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

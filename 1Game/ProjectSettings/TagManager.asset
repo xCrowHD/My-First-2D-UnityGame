@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CollisionJump
+  - Enemy
+  - PlayerInStealth
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: cielo
+    uniqueID: 721178795
+    locked: 0
+  - name: bg
+    uniqueID: 3607888191
+    locked: 0
+  - name: ground
+    uniqueID: 3338053547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: behind props
+    uniqueID: 1736709531
+    locked: 0
+  - name: on props
+    uniqueID: 3956588213
+    locked: 0
+  - name: props dietro
+    uniqueID: 1515716683
+    locked: 0
+  - name: erba
+    uniqueID: 3404857723
+    locked: 0
+  - name: props davanti
+    uniqueID: 1497266273
+    locked: 0
+  - name: Enemy
+    uniqueID: 1723403641
+    locked: 0
+  - name: Player
+    uniqueID: 3266010963
+    locked: 0
