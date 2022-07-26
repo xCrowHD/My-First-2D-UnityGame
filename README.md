@@ -6,7 +6,7 @@
 
 ### I wanted to make it .exe but i had some weird problem with the enemy not moving and other minor problem. Probably because i update my unity version.
 
-###Command for the game :
+### Command for the game :
 
 - Left and Right arrow to move
 - Z to Melee Attack
