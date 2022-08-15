@@ -34,7 +34,7 @@ public class EnemyAi : MonoBehaviour
     
     private void UpdatePath()
     {
-        if (enemyGM.seeker.IsDone())
+        if (enemyGM.seeker.IsDone() && enemyGM.playerPosition != null)
         {
             enemyGM.seeker.StartPath(enemyGM.rb.position, enemyGM.playerPosition.position, OnPathComplete);
         }
