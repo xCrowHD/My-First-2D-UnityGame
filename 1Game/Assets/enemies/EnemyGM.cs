@@ -70,10 +70,13 @@ public class EnemyGM : MonoBehaviour
     {
         if(stats == null)
         {
-            stats = GameObject.FindWithTag("Player").GetComponent<PlayerStats>();
+            if (GameObject.FindWithTag("Player").GetComponent<PlayerStats>() != null)
+            {
+                stats = GameObject.FindWithTag("Player").GetComponent<PlayerStats>();
+                playerPosition = stats.transform;
+            }
+            
         }
-
-        playerPosition = GameObject.FindWithTag("Player").transform;
 
     }
     
