@@ -4,7 +4,7 @@
 
 ### As for now this project will not be updated.
 
-### I wanted to make it .exe but i had some weird problem with the enemy not moving and other minor problem. Probably because i update my unity version. So for now you need to compile the game first in unity and play from there.
+### I wanted to make it .exe but i had some weird problem with the enemy not moving and other minor problem. I think the reason behind not working in a build is A* pathfinding not working i still dont know why. So for now you need to compile the game first in unity and play from there.
 
 ### Command for the game :
 
